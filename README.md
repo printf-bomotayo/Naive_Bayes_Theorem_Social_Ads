@@ -1,2 +1,2 @@
 # Naive_Bayes_Theorem_Social_Ads
-This REPO contains the source code for the same SUV company.
+This REPO contains the source code for the same SUV company using the Naive Bayes classification model.
